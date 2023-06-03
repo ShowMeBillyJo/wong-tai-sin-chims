@@ -23,3 +23,7 @@ Handy access to [the Chims](https://the-oracle-of-wong-tai-sin.webnode.page/chim
 * UX mindmap, info arch
 * Wireframe UI
 * Finalize UI tech
+
+## Copyright disclaimer
+
+I have never, do not, and will never claim any rights to the content of the Chims. What I've reproduced here is used explicitly and only for referential purposes. All Chims content is copyright &copy; [Vinechilizard/VineChi](https://the-oracle-of-wong-tai-sin.webnode.page/about-me/).
