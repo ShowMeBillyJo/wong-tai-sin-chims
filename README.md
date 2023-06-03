@@ -6,6 +6,7 @@ Handy access to [the Chims](https://the-oracle-of-wong-tai-sin.webnode.page/chim
 
 * Random Chim
 * Chim by number
+* Multilingual
 
 ## Tech
 
