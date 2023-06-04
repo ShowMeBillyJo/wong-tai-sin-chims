@@ -13,10 +13,10 @@ Handy access to [the Chims](https://the-oracle-of-wong-tai-sin.webnode.page/chim
 Static, native, and unminified
 
 * No preprocessing: write, save, refresh, see
-* [Vanilla JS](https://vanilla-js.com/)
+* [![Vanilla JS button](./.readme/vanilla-js-button.png "Vanilla JS")](https://vanilla-js.com/)
 * Plain CSS
   * Enough to make it not look like crap 😁
-  * Maybe not even a reset stylesheet 🤔
+  * Maybe not even a reset stylesheet? 🤔
 * PWA for fun
 
 ### Resources
