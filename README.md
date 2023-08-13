@@ -4,19 +4,19 @@ Handy access to [the Chims](https://the-oracle-of-wong-tai-sin.webnode.page/chim
 
 ## Features
 
-* Random Chim
-* Chim by number
+* Hyperlinks to all individual Chims
+* Go to random Chim
 * Multilingual
 
 ## Tech
 
 Static, native, and unminified
 
-* No preprocessing: write, save, refresh, see
-* [Vanilla JS](https://vanilla-js.com/)
+* No preprocessing: write ⌨, save 💾, refresh 🔁, see 👀
+* [![Vanilla JS button](./.readme/vanilla-js-button.png "Vanilla JS")](https://vanilla-js.com/)
 * Plain CSS
   * Enough to make it not look like crap 😁
-  * Maybe not even a reset stylesheet 🤔
+  * Maybe not even a reset stylesheet? 🤔
 * PWA for fun
 
 ### Resources
