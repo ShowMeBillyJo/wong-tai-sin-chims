@@ -21,7 +21,7 @@
                     "type": "string"
                 },
                 "wisdom": {
-                    "description": "A short wisdom that summarizes the Chim",
+                    "description": "A brief saying that summarizes the Chim",
                     "type": "string"
                 }
             },
