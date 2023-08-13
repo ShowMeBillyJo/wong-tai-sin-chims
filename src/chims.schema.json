@@ -1,0 +1,46 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://github.com/ShowMeBillyJo/wong-tai-sin-chims/chims.schema.json",
+    "title": "Chims",
+    "description": "The Chims of the Oracle of Wong Tai Sin",
+    "type": "array",
+    "items": {
+        "$ref": "#/$defs/chim"
+    },
+    "$defs": {
+        "chim": {
+            "properties": {
+                "sequence": {
+                    "description": "The Chim's sequence in the set",
+                    "type": "number",
+                    "minimum": 1,
+                    "maximum": 100
+                },
+                "title": {
+                    "description": "The Chim's title",
+                    "type": "string"
+                },
+                "wisdom": {
+                    "description": "A short wisdom that summarizes the Chim",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "sequence",
+                "title",
+                "wisdom"
+            ],
+            "defaultSnippets": [
+                {
+                    "label": "New Chim",
+                    "description": "Define a new Chim",
+                    "body": {
+                        "sequence": "^$1",
+                        "title": "$2",
+                        "wisdom": "$3"
+                    }
+                }
+            ]
+        }
+    }
+}
