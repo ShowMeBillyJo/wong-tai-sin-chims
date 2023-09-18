@@ -21,8 +21,8 @@ Static, native, and unminified
 
 ### Resources
 
-* [Web technology for developers \| MDN](https://developer.mozilla.org/en-US/docs/Web)
-* [web\.dev](https://web.dev/)
+* [Web technology for developers](https://developer.mozilla.org/en-US/docs/Web)
+* [web.dev](https://web.dev/)
 
 ## To-do
 
@@ -30,6 +30,10 @@ Static, native, and unminified
 * Wireframe UI
 * ~~Finalize UI tech~~
 
+## Acknowledgements
+
+CSV to JSON conversion performed by [CSV to JSON](https://csvjson.com/csv2json)
+
 ## Copyright disclaimer
 
-I have never, do not, and will never claim any rights to the content of the Chims. What I've reproduced here is used explicitly and only for referential purposes. All Chims content is copyright &copy; [Vinechilizard\/VineChi](https://the-oracle-of-wong-tai-sin.webnode.page/about-me/).
+I have never, do not, and will never claim any rights to the content of the Chims. What I've reproduced here is used explicitly and only for referential purposes. All Chims content is copyright &copy; [Vinechilizard/VineChi](https://the-oracle-of-wong-tai-sin.webnode.page/about-me/).
