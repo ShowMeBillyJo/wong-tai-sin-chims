@@ -16,30 +16,24 @@
                     "minimum": 1,
                     "maximum": 100
                 },
-                "title": {
-                    "description": "The Chim's title",
+                "title_en": {
+                    "description": "The Chim's title, in English",
                     "type": "string"
                 },
-                "wisdom": {
-                    "description": "A brief saying that summarizes the Chim",
+                "title_zh": {
+                    "description": "The Chim's title, in Chinese",
+                    "type": "string"
+                },
+                "wisdom_en": {
+                    "description": "A brief saying that summarizes the Chim, in English",
                     "type": "string"
                 }
             },
             "required": [
                 "sequence",
-                "title",
-                "wisdom"
-            ],
-            "defaultSnippets": [
-                {
-                    "label": "New Chim",
-                    "description": "Define a new Chim",
-                    "body": {
-                        "sequence": "^$1",
-                        "title": "$2",
-                        "wisdom": "$3"
-                    }
-                }
+                "title_en",
+                "title_zh",
+                "wisdom_en"
             ]
         }
     }
